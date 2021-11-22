@@ -1,0 +1,10 @@
+export { default as Authenticate } from './Authenticate';
+export { default as Account } from './Account';
+export { default as CreateAccount } from './CreateAccount';
+export { default as Dashboard } from './Dashboard';
+export { default as ForgetPass } from './ForgetPass';
+export { default as Landing } from './Landing';
+export { default as NewPass } from './NewPass';
+export { default as Payment } from './Payment';
+export { default as Travel } from './Travel';
+export { default as Verification } from './Verification';
